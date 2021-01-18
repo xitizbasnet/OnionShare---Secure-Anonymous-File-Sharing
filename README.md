@@ -8,4 +8,5 @@ It doesn’t require setting up a server on the internet somewhere or using a th
 You host the file on your own computer and use a Tor onion service to make it temporarily accessible over the internet. The other user needs to use Tor Browser to download the file from you.
 
   :diamonds: DOWNLOAD :diamonds:
+  
 ━━━━━━━━━━━━━
